@@ -35,7 +35,7 @@ Install ──► Configure device ──► tdk setup ──► tdk run ──�
 | Item | Details |
 |------|---------|
 | A Linux machine | Ubuntu 20.04 or later recommended |
-| A `tdk.deb` file | https://github.com/ElzaJose/tdk-runner/releases/download/Assets/tdk.deb|
+| A `tdk.deb` file | https://github.com/ElzaJose/tdk-runner/releases/download/Assets/tdk.deb (for Python3.12) OR https://github.com/ElzaJose/tdex/releases/download/Assets/tdk_py3.deb (for any Python3)|
 | A device config file | A device specific `.config` file for your device for certification tests |
 | Module config files | Variable files for the test modules you want to run |
 
